@@ -1,0 +1,50 @@
+
+body {
+  position: relative;
+  background-color: #fff; color: #666;
+  font-family: Source Sans Pro, sans-serif;
+  font-size: 100%;
+  background-repeat: repeat-y; background-position: 50% 0;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTAiIHdpZHRoPSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj48Y2lyY2xlIHI9IjIiIGN5PSIyIiBjeD0iNSIgZmlsbD0iIzk5OSIgc3Ryb2tlPSJub25lIiAvPjwvc3ZnPg==");
+}
+
+.film > .header {
+  margin: 48px 0 8px 0; padding: 12px 0;
+  background-color: #fff;
+  font-family: Courgette;
+  text-align: center;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.title {
+  /*text-transform: uppercase;*/
+  font-size: 1.75rem;
+}
+
+
+
+
+.film .details {
+  min-height: 65vh;
+  padding: 12px;
+}
+
+
+
+
+.thumb {
+  float: right; position: relative;
+  width: 200px; height: 150px;
+  background-color: #369;
+  transition: 0.15s;
+}
+
+.thumb:hover {
+  cursor: pointer;
+  background-color: #69f;
+}
+
+.right .thumb {
+  float: left;
+}

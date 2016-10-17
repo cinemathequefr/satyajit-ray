@@ -1,0 +1,30 @@
+#viewer {
+  position: fixed;
+  /*background-color: rgba(255, 255, 255, 0.9);*/
+  background-color: #333;
+}
+
+.viewerClose:before {
+  display: block; position: fixed;
+  top: 0; right: 16px; line-height: 0.5;
+  color: #035;
+  font-size: 5rem; font-weight: 700;
+  content: "×";
+  opacity: 0.5;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+.viewerClose:hover:before, .viewerClose.on:before {
+  opacity: 1;
+}
+
+.viewerContent {
+  position: relative; overflow: hidden;
+  padding: 48px 0;
+}
+
+.viewerContent .title {
+  width: 50%; overflow: hidden;
+  float: right;
+}

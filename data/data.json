@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "title": "La Ruée vers l'or",
+    "director": "Charles Chaplin"
+  },
+  {
+    "id": 2,
+    "title": "Le Mécano de la General",
+    "director": "Buster Keaton"
+  },
+  {
+    "id": 3,
+    "title": "L'Homme d'Aran",
+    "director": "Robert Flaherty"
+  },
+  {
+    "id": 4,
+    "title": "La Passion de Jeanne d'Arc",
+    "director": "Carl Th. Dreyer"
+  },
+  {
+    "id": 5,
+    "title": "Nosferatu le vampire",
+    "director": "F. W. Murnau"
+  },
+  {
+    "id": 6,
+    "title": "Le Chemin de la vie",
+    "director": "Nikolaï Ekk"
+  },
+  {
+    "id": 7,
+    "title": "La Terre",
+    "director": "Alexandre Dovjenko"
+  },
+  {
+    "id": 8,
+    "title": "L'Enfance de Gorki",
+    "director": "Mark Donskoï"
+  },
+  {
+    "id": 9,
+    "title": "La Règle du jeu",
+    "director": "Jean Renoir"
+  },
+  {
+    "id": 10,
+    "title": "La Poursuite infernale",
+    "director": "John Ford"
+  },
+  {
+    "id": 11,
+    "title": "Haute pègre",
+    "director": "Ernst Lubitsch"
+  },
+  {
+    "id": 12,
+    "title": "Cris et chuchotements",
+    "director": "Ingmar Bergman"
+  },
+  {
+    "id": 13,
+    "title": "Le Voleur de bicyclette",
+    "director": "Vittorio de Sica"
+  },
+  {
+    "id": 14,
+    "title": "La Notte",
+    "director": "Michelangelo Antonioni"
+  },
+  {
+    "id": 15,
+    "title": "Huit et demi",
+    "director": "Federico Fellini"
+  },
+  {
+    "id": 16,
+    "title": "Lettre d'une inconnue",
+    "director": "Max Ophuls"
+  },
+  {
+    "id": 17,
+    "title": "Mr Smith au Sénat",
+    "director": "Frank Capra"
+  },
+  {
+    "id": 18,
+    "title": "La Vipère",
+    "director": "William Wyler"
+  },
+  {
+    "id": 19,
+    "title": "Assurance sur la mort",
+    "director": "Billy Wilder"
+  },
+  {
+    "id": 20,
+    "title": "Citizen Kane",
+    "director": "Orson Welles"
+  },
+  {
+    "id": 21,
+    "title": "Le Faucon maltais",
+    "director": "John Huston"
+  },
+  {
+    "id": 22,
+    "title": "Le Commando de la mort",
+    "director": "Lewis Milestone"
+  },
+  {
+    "id": 23,
+    "title": "Fenêtre sur cour",
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 24,
+    "title": "Douze hommes en colère",
+    "director": "Sidney Lumet"
+  },
+  {
+    "id": 25,
+    "title": "Dr Jekyll et Mr Hyde",
+    "director": "Rouben Mamoulian"
+  },
+  {
+    "id": 26,
+    "title": "Taking Off",
+    "director": "Milos Forman"
+  },
+  {
+    "id": 27,
+    "title": "Chinatown",
+    "director": "Roman Polanski"
+  },
+  {
+    "id": 28,
+    "title": "2001 : L'odyssée de l'espace",
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 29,
+    "title": "Klute",
+    "director": "Alan J. Pakula"
+  },
+  {
+    "id": 30,
+    "title": "Intérieurs",
+    "director": "Woody Allen"
+  },
+  {
+    "id": 31,
+    "title": "Butch Cassidy et le Kid",
+    "director": "George Roy Hill"
+  },
+  {
+    "id": 32,
+    "title": "Les Grandes espérances",
+    "director": "David Lean"
+  },
+  {
+    "id": 33,
+    "title": "Fallen Idol",
+    "director": "Carol Reed"
+  },
+  {
+    "id": 34,
+    "title": "Noces de sang",
+    "director": "Carlos Saura"
+  },
+  {
+    "id": 35,
+    "title": "Le Roi Lear",
+    "director": "Grigori Kozintsev"
+  },
+  {
+    "id": 36,
+    "title": "Ivan le terrible",
+    "director": "Sergueï M. Eisenstein"
+  },
+  {
+    "id": 37,
+    "title": "Farrebique",
+    "director": "Georges Rouquier"
+  },
+  {
+    "id": 38,
+    "title": "Les 400 coups",
+    "director": "François Truffaut"
+  },
+  {
+    "id": 39,
+    "title": "Les Sept samouraïs",
+    "director": "Akira Kurosawa"
+  },
+  {
+    "id": 40,
+    "title": "Voyage à Tokyo",
+    "director": "Yasujiro Ozu"
+  },
+  {
+    "id": 41,
+    "title": "Les Contes de la lune vague après la pluie",
+    "director": "Kenji Mizoguchi"
+  },
+  {
+    "id": 42,
+    "title": "Une nuit à l'opéra",
+    "director": "Sam Wood"
+  },
+  {
+    "id": 43,
+    "title": "Top Hat",
+    "director": "Mark Sandrich"
+  }
+]
