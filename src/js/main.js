@@ -18,7 +18,7 @@ $(function () {
       [
         "<% _.forEach(data, function (d, i) { %>",
         "<div class='film'>",
-        "<div class='header'><span class='rank'>{{ d.id }}.</span><br><span class='title'>{{ d.title }}</span><br><span class='director'>({{ d.director }})</span></div>",
+        "<div class='header'><span class='rank'>{{ d.id }}.</span><br><span class='title'>{{ d.title }}</span><br><span class='director'>({{ d.director }}, {{ d.year }})</span></div>",
         "<div class='row'>",
         "<div class='details small-12 medium-6 end<% if (i % 2 === 0) { %> right medium-offset-6<% } %>'>",
         "<div class='thumb'></div>",

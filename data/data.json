@@ -2,216 +2,259 @@
   {
     "id": 1,
     "title": "La Ruée vers l'or",
-    "director": "Charles Chaplin"
+    "director": "Charles Chaplin",
+    "year": 19
   },
   {
     "id": 2,
     "title": "Le Mécano de la General",
-    "director": "Buster Keaton"
+    "director": "Buster Keaton",
+    "year": 19
   },
   {
     "id": 3,
     "title": "L'Homme d'Aran",
-    "director": "Robert Flaherty"
+    "director": "Robert Flaherty",
+    "year": 19
   },
   {
     "id": 4,
     "title": "La Passion de Jeanne d'Arc",
-    "director": "Carl Th. Dreyer"
+    "director": "Carl Th. Dreyer",
+    "year": 19
   },
   {
     "id": 5,
     "title": "Nosferatu le vampire",
-    "director": "F. W. Murnau"
+    "director": "F. W. Murnau",
+    "year": 19
   },
   {
     "id": 6,
     "title": "Le Chemin de la vie",
-    "director": "Nikolaï Ekk"
+    "director": "Nikolaï Ekk",
+    "year": 19
   },
   {
     "id": 7,
     "title": "La Terre",
-    "director": "Alexandre Dovjenko"
+    "director": "Alexandre Dovjenko",
+    "year": 19
   },
   {
     "id": 8,
     "title": "L'Enfance de Gorki",
-    "director": "Mark Donskoï"
+    "director": "Mark Donskoï",
+    "year": 19
   },
   {
     "id": 9,
     "title": "La Règle du jeu",
-    "director": "Jean Renoir"
+    "director": "Jean Renoir",
+    "year": 19
   },
   {
     "id": 10,
     "title": "La Poursuite infernale",
-    "director": "John Ford"
+    "director": "John Ford",
+    "year": 19
   },
   {
     "id": 11,
     "title": "Haute pègre",
-    "director": "Ernst Lubitsch"
+    "director": "Ernst Lubitsch",
+    "year": 19
   },
   {
     "id": 12,
     "title": "Cris et chuchotements",
-    "director": "Ingmar Bergman"
+    "director": "Ingmar Bergman",
+    "year": 19
   },
   {
     "id": 13,
     "title": "Le Voleur de bicyclette",
-    "director": "Vittorio de Sica"
+    "director": "Vittorio de Sica",
+    "year": 19
   },
   {
     "id": 14,
     "title": "La Notte",
-    "director": "Michelangelo Antonioni"
+    "director": "Michelangelo Antonioni",
+    "year": 19
   },
   {
     "id": 15,
     "title": "Huit et demi",
-    "director": "Federico Fellini"
+    "director": "Federico Fellini",
+    "year": 19
   },
   {
     "id": 16,
     "title": "Lettre d'une inconnue",
-    "director": "Max Ophuls"
+    "director": "Max Ophuls",
+    "year": 19
   },
   {
     "id": 17,
     "title": "Mr Smith au Sénat",
-    "director": "Frank Capra"
+    "director": "Frank Capra",
+    "year": 19
   },
   {
     "id": 18,
     "title": "La Vipère",
-    "director": "William Wyler"
+    "director": "William Wyler",
+    "year": 19
   },
   {
     "id": 19,
     "title": "Assurance sur la mort",
-    "director": "Billy Wilder"
+    "director": "Billy Wilder",
+    "year": 19
   },
   {
     "id": 20,
     "title": "Citizen Kane",
-    "director": "Orson Welles"
+    "director": "Orson Welles",
+    "year": 19
   },
   {
     "id": 21,
     "title": "Le Faucon maltais",
-    "director": "John Huston"
+    "director": "John Huston",
+    "year": 19
   },
   {
     "id": 22,
     "title": "Le Commando de la mort",
-    "director": "Lewis Milestone"
+    "director": "Lewis Milestone",
+    "year": 19
   },
   {
     "id": 23,
     "title": "Fenêtre sur cour",
-    "director": "Alfred Hitchcock"
+    "director": "Alfred Hitchcock",
+    "year": 19
   },
   {
     "id": 24,
     "title": "Douze hommes en colère",
-    "director": "Sidney Lumet"
+    "director": "Sidney Lumet",
+    "year": 19
   },
   {
     "id": 25,
     "title": "Dr Jekyll et Mr Hyde",
-    "director": "Rouben Mamoulian"
+    "director": "Rouben Mamoulian",
+    "year": 19
   },
   {
     "id": 26,
     "title": "Taking Off",
-    "director": "Milos Forman"
+    "director": "Milos Forman",
+    "year": 19
   },
   {
     "id": 27,
     "title": "Chinatown",
-    "director": "Roman Polanski"
+    "director": "Roman Polanski",
+    "year": 19
   },
   {
     "id": 28,
     "title": "2001 : L'odyssée de l'espace",
-    "director": "Stanley Kubrick"
+    "director": "Stanley Kubrick",
+    "year": 19
   },
   {
     "id": 29,
     "title": "Klute",
-    "director": "Alan J. Pakula"
+    "director": "Alan J. Pakula",
+    "year": 19
   },
   {
     "id": 30,
     "title": "Intérieurs",
-    "director": "Woody Allen"
+    "director": "Woody Allen",
+    "year": 19
   },
   {
     "id": 31,
     "title": "Butch Cassidy et le Kid",
-    "director": "George Roy Hill"
+    "director": "George Roy Hill",
+    "year": 19
   },
   {
     "id": 32,
     "title": "Les Grandes espérances",
-    "director": "David Lean"
+    "director": "David Lean",
+    "year": 19
   },
   {
     "id": 33,
     "title": "Fallen Idol",
-    "director": "Carol Reed"
+    "director": "Carol Reed",
+    "year": 19
   },
   {
     "id": 34,
     "title": "Noces de sang",
-    "director": "Carlos Saura"
+    "director": "Carlos Saura",
+    "year": 19
   },
   {
     "id": 35,
     "title": "Le Roi Lear",
-    "director": "Grigori Kozintsev"
+    "director": "Grigori Kozintsev",
+    "year": 1970
   },
   {
     "id": 36,
     "title": "Ivan le terrible",
-    "director": "Sergueï M. Eisenstein"
+    "director": "Sergueï M. Eisenstein",
+    "year": 1943
   },
   {
     "id": 37,
     "title": "Farrebique",
-    "director": "Georges Rouquier"
+    "director": "Georges Rouquier",
+    "year": 1944
   },
   {
     "id": 38,
     "title": "Les 400 coups",
-    "director": "François Truffaut"
+    "director": "François Truffaut",
+    "year": 1958
   },
   {
     "id": 39,
     "title": "Les Sept samouraïs",
-    "director": "Akira Kurosawa"
+    "director": "Akira Kurosawa",
+    "year": 1954
   },
   {
     "id": 40,
     "title": "Voyage à Tokyo",
-    "director": "Yasujiro Ozu"
+    "director": "Yasujiro Ozu",
+    "year": 1953
   },
   {
     "id": 41,
     "title": "Les Contes de la lune vague après la pluie",
-    "director": "Kenji Mizoguchi"
+    "director": "Kenji Mizoguchi",
+    "year": 1953
   },
   {
     "id": 42,
     "title": "Une nuit à l'opéra",
-    "director": "Sam Wood"
+    "director": "Sam Wood",
+    "year": 1935
   },
   {
     "id": 43,
     "title": "Top Hat",
-    "director": "Mark Sandrich"
+    "director": "Mark Sandrich",
+    "year": 1935
   }
 ]
