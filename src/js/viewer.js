@@ -67,6 +67,7 @@ var viewer = (function () {
 
       window.setTimeout(function () {
         $viewer.one("transitionend", function () {
+          $("body").addClass("viewer-isopen");
           $viewerContent.append(template($sourceElem));
           $viewer
           .css({ "transition-duration": "0ms" }) // Important to prevent $viewer animation on window resize
@@ -98,6 +99,7 @@ var viewer = (function () {
     if (isOpen === false || isViewerAnimationRunning === true) return;
     var coords = coordinates($sourceElem);
     isViewerAnimationRunning = true;
+    $("body").removeClass("viewer-isopen");
     $viewerClose.hide();
     $viewerContent.empty();
     $viewer

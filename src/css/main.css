@@ -1,5 +1,5 @@
 html {
-  overflow-y: scroll;  
+  overflow: scroll-y;
 }
 
 body {
@@ -29,6 +29,7 @@ h1 > .large {
 
 .splash {
   width: 100%; height: 100vh;
+  background-color: #333;
   background-image: url("../../img/satyajit-ray.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -57,23 +58,42 @@ h1 > .large {
   padding: 12px;
 }
 
-
-
-
 .thumb {
   float: right; position: relative;
   width: 200px; height: 150px;
-  background-color: #369;
+  background-color: #333;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
   transition: 0.15s;
 }
 
-.thumb:hover {
+.thumb > div {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-color: transparent;
+  mix-blend-mode: hard-light;
+  transition: 0.25s;
+}
+
+.thumb > div:hover {
   cursor: pointer;
-  background-color: #69f;
+  background-color: #999;
 }
 
 .right .thumb {
   float: left;
+}
+
+
+.text {
+  padding-top: 24px;
+  clear: both;
+  text-align: right;
+}
+
+.right .text {
+  text-align: left;
 }
 
 

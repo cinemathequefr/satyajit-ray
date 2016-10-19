@@ -21,7 +21,11 @@ $(function () {
         "<div class='header'><span class='rank'>{{ d.id }}.</span><br><span class='title'>{{ d.title }}</span><br><span class='director'>({{ d.director }}, {{ d.year }})</span></div>",
         "<div class='row'>",
         "<div class='details small-12 medium-6 end<% if (i % 2 === 0) { %> right medium-offset-6<% } %>'>",
-        "<div class='thumb'></div>",
+        "<% _.forEach(d.media, function (m) { %>",
+        "<div class='thumb img' style='background-image:url(img/400x300/{{ m.name }}.jpg)'><div></div></div>",
+        "<%}) %>",
+        // "<div class='thumb'></div>",
+        "<div class='text'>{{ d.text }}</div>",
         "</div>",
         "</div>",
         "</div><% }) %>"

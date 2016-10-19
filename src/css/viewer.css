@@ -4,10 +4,14 @@
   border: none;
 }
 
+body.viewer-isopen {
+  overflow: hidden;
+}
+
 .viewerClose:before {
   display: block; position: fixed;
   top: 0; right: 16px; line-height: 0.5;
-  color: #035;
+  color: #fff;
   font-size: 5rem; font-weight: 700;
   content: "×";
   opacity: 0.5;
@@ -19,12 +23,10 @@
   opacity: 1;
 }
 
+
 .viewerContent {
   position: relative; overflow: hidden;
   padding: 48px 0;
 }
 
-.viewerContent .title {
-  width: 50%; overflow: hidden;
-  float: right;
-}
+

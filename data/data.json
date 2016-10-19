@@ -249,7 +249,11 @@
     "id": 42,
     "title": "Une nuit à l'opéra",
     "director": "Sam Wood",
-    "year": 1935
+    "year": 1935,
+    "text": "<p>«&nbsp;J'ose espérer que l'on me pardonnera si j'oublie les noms des personnalités assurément très distinguées qui ont mis en scène les films des Marx Brothers. Y en a-t-il vraiment eu d'ailleurs&nbsp;? Si la fonction du réalisateur consiste à coordonner le travail des acteurs et à faire régner l'ordre et le bon sens sur le plateau, alors évidemment le personnage en question aurait mieux fait de rester à des kilomètres des frères Marx. Le rapport entre l'art et une série d'extravagances plus ou moins géniales n'a jamais été clairement défini. En tous cas, il semblerait plutôt déplacé de parler d'art à l'occasion de –&nbsp;disons&nbsp;– <em>Une nuit à l'opéra</em>. Mais je tiens à dire que si l'on me permettait d'emporter un film, et un seul, dans la fameuse île déserte, c'est sans l'ombre même d'un doute un film des frères Marx que je choisirais.&nbsp;» (Satyajit Ray)</p>",
+    "media": [
+      { "type": "img", "name": "42-1" }
+    ]
   },
   {
     "id": 43,
