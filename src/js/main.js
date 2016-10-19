@@ -6,9 +6,7 @@ $(function () {
 
 
   viewer.init($("#viewer"), "");
-
-
-
+  $(".viewerContent").attr("id", "dz-view");
 
 
 
@@ -39,10 +37,15 @@ $(function () {
 
     $(".thumb").on("click", function () {
       var $el = $(this);
-      // console.log($el.offset().left, $el.offset().top - $("html").scrollTop());
-
       viewer.open($el);
     });
+
+    viewer.on("viewer.open", function () {
+      deepZoom.open($(".viewerContent"), "http://cf.pasoliniroma.com/static/truffaut/dz/1-1/", 2200, 1590);
+      $(".viewerContent").css({ cursor: "move" });
+    });
+
+    viewer.on("viewer.close", deepZoom.destroy);
 
 
 

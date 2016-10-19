@@ -89,6 +89,7 @@ var viewer = (function () {
           });
           isOpen = true;
           isViewerAnimationRunning = false;
+          $.publish("viewer.open");
         });
       }, 1); // Small delay necessary to separate the transitionend events
     });
