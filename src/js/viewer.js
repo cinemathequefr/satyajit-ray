@@ -89,7 +89,8 @@ var viewer = (function () {
           });
           isOpen = true;
           isViewerAnimationRunning = false;
-          $.publish("viewer.open");
+          // $.publish("viewer.open");
+          $.publish("viewer.open", { source: $sourceElem });
         });
       }, 1); // Small delay necessary to separate the transitionend events
     });
@@ -119,6 +120,10 @@ var viewer = (function () {
       isViewerAnimationRunning = false;
       $.publish("viewer.close");
     });
+  }
+
+  function source () {
+    return $sourceElem;
   }
 
   return {

@@ -294,7 +294,11 @@
       "en": "The Fallen Idol"
     },
     "director": "Carol Reed",
-    "year": 19
+    "year": 1947,
+    "text": {
+      "fr": "<p>«&nbsp;La fin des années 40 a vu la désintégration progressive de ce qui venait juste de recevoir le nom de &quot;style anglais&quot;. Reed a abandonné l'étude de la société anglaise et s'est livré à des incursions plus ou moins désordonnées dans le monde de Graham Greene. Ni <em>Première désillusion</em>, ni <em>Le Troisième homme</em> n'eurent rien de spécifiquement anglais. Mais ceci n'empêchait nullement ces ouvrages d'être remarquables d'un point de vue strictement cinématographique.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    }
   },
   {
     "id": 34,
@@ -303,7 +307,7 @@
       "en": "Blood Wedding"
     },
     "director": "Carlos Saura",
-    "year": 19
+    "year": 1980
   },
   {
     "id": 35,
@@ -321,7 +325,14 @@
       "en": "Ivan the Terrible"
     },
     "director": "Sergueï M. Eisenstein",
-    "year": 1943
+    "year": 1943,
+    "text": {
+      "fr": "<p>«&nbsp;Je n'oublierai jamais ce dimanche matin où je vis la première partie d'<em>Ivan le Terrible</em> dans un cinéma du Nord de Calcutta. L'atmosphère sombrement gothique du film, les gestes larges de Cherkasov et la musique de Prokofiev me poursuivirent toute la journée et jusque tard dans la nuit.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": [
+      { "type": "img", "name": "36-1", "size": [1652, 2624] }
+    ]
   },
   {
     "id": 37,
@@ -330,7 +341,10 @@
       "en": "Farrebique"
     },
     "director": "Georges Rouquier",
-    "year": 1944
+    "year": 1944,
+    "media": [
+      { "type": "img", "name": "37-1", "size": [1892, 2535] }
+    ]
   },
   {
     "id": 38,
@@ -339,7 +353,11 @@
       "en": "The 400 Blows"
     },
     "director": "François Truffaut",
-    "year": 1958
+    "year": 1958,
+    "text": {
+      "fr": "<p>«&nbsp;On sait depuis bien longtemps déjà que le caractère spécifique de l'art est de maintenir un équilibre harmonieux entre le contenant et le contenu. Au moins, c'est précisément cet équilibre que Truffaut rechercha –&nbsp;et réalisa&nbsp;– dans son remarquable film <em>Les Quatre cents coups</em>.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    }
   },
   {
     "id": 39,
@@ -348,7 +366,11 @@
       "en": "Seven Samourai"
     },
     "director": "Akira Kurosawa",
-    "year": 1954
+    "year": 1954,
+    "text": {
+      "fr": "<p>«&nbsp;De tous les réalisateurs japonais, c'est Kurosawa qui s'est montré le plus à la portée du monde extérieur. Il y a plusieurs raisons à cela. Aux sujets purement locaux, il semble préférer les situations simples et de caractère universel. Mais, essentiellement, je crois que c'est son goût du mouvement, de l'action physique qui a valu à Kurosawa tant d'admirateurs à l'Ouest. Je ne connais pas suffisamment le Japon pour savoir si l'action telle que la conçoit Kurosawa est bien dans la tradition japonaise ou si le réalisateur a subi plus ou moins fortement l'influence de l'Occident. Quoi qu'il en soit, à partir du moment où une scène de bataille ou un beau duel au sabre me donnent un plaisir esthétique aigu, cela ne présente pas une grande importance.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    }
   },
   {
     "id": 40,
@@ -357,7 +379,11 @@
       "en": "Tokyo Story"
     },
     "director": "Yasujiro Ozu",
-    "year": 1953
+    "year": 1953,
+    "text": {
+      "fr": "<p>«&nbsp;Je ne connais pas le Ozu des débuts mais à la fin de sa carrière il était totalement japonais, pas du tout influencé par Hollywood. Même des conventions comme la loi des 180°, il les trasngressait. Là où on tricherait, où on ferait changer de place les acteurs, Ozu colle à la vérité des positions des acteurs, il ne change jamais la géographie. Pour nous, c'est souvent reçu comme un heurt, c'est un peu déroutant. J'ai regardé certains de ses films souvent et je me disais&nbsp;: &quot;Mon Dieu&nbsp;, il ne suit pas les modèles hollywoodiens, la grammaire. Il suit une autre vérité, celle des acteurs dans le décor.&quot;&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    }
   },
   {
     "id": 41,
@@ -366,7 +392,11 @@
       "en": "Ugetsu"
     },
     "director": "Kenji Mizoguchi",
-    "year": 1953
+    "year": 1953,
+    "text": {
+      "fr": "<p>«&nbsp;Les Japonais savent bien que c'est un jeu pour la caméra de réaliser des effets ou des illusions optiques, mais leur sensibilité innée leur permet de réaliser que ces illusions, étant évidemment produites par des procédés mécaniques, n'ont jamais le pouvoir de suggestion des visions naturelles. C'est pourquoi leurs fantômes eux-mêmes deviennent solides, pondéreux. Il suffit de voir <em>Les Contes de la lune vague après la pluie</em> de Mizoguchi pour se persuader que le résultat est autrement plus probant que n'importe quel doublage.&nbsp;»</p>",
+      "en": ""
+    }
   },
   {
     "id": 42,
@@ -376,9 +406,12 @@
     },
     "director": "Sam Wood",
     "year": 1935,
-    "text": "<p>«&nbsp;J'ose espérer que l'on me pardonnera si j'oublie les noms des personnalités assurément très distinguées qui ont mis en scène les films des Marx Brothers. Y en a-t-il vraiment eu d'ailleurs&nbsp;? Si la fonction du réalisateur consiste à coordonner le travail des acteurs et à faire régner l'ordre et le bon sens sur le plateau, alors évidemment le personnage en question aurait mieux fait de rester à des kilomètres des frères Marx. Le rapport entre l'art et une série d'extravagances plus ou moins géniales n'a jamais été clairement défini. En tous cas, il semblerait plutôt déplacé de parler d'art à l'occasion de –&nbsp;disons&nbsp;– <em>Une nuit à l'opéra</em>. Mais je tiens à dire que si l'on me permettait d'emporter un film, et un seul, dans la fameuse île déserte, c'est sans l'ombre même d'un doute un film des frères Marx que je choisirais.&nbsp;» (Satyajit Ray)</p>",
+    "text": {
+      "fr": "<p>«&nbsp;J'ose espérer que l'on me pardonnera si j'oublie les noms des personnalités assurément très distinguées qui ont mis en scène les films des Marx Brothers. Y en a-t-il vraiment eu d'ailleurs&nbsp;? Si la fonction du réalisateur consiste à coordonner le travail des acteurs et à faire régner l'ordre et le bon sens sur le plateau, alors évidemment le personnage en question aurait mieux fait de rester à des kilomètres des frères Marx. Le rapport entre l'art et une série d'extravagances plus ou moins géniales n'a jamais été clairement défini. En tous cas, il semblerait plutôt déplacé de parler d'art à l'occasion de –&nbsp;disons&nbsp;– <em>Une nuit à l'opéra</em>. Mais je tiens à dire que si l'on me permettait d'emporter un film, et un seul, dans la fameuse île déserte, c'est sans l'ombre même d'un doute un film des frères Marx que je choisirais.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
     "media": [
-      { "type": "img", "name": "42-1" }
+      { "type": "img", "name": "42-1", "size": [1535, 1148] }
     ]
   },
   {
@@ -388,6 +421,9 @@
       "en": "Top Hat"
     },
     "director": "Mark Sandrich",
-    "year": 1935
+    "year": 1935,
+    "media": [
+      { "type": "img", "name": "43-1", "size": [1200, 874] }
+    ]
   }
 ]

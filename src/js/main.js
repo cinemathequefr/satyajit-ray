@@ -17,16 +17,16 @@ $(function () {
       [
         "<% _.forEach(data, function (d, i) { %>",
         "<div class='film'>",
-        "<div class='header'><span class='rank'>{{ d.id }}.</span><br><span class='title'>{{ d.title['en'] }}</span><br><span class='director'>({{ d.director }}, {{ d.year }})</span></div>",
+        "<div class='header'><span class='rank'>{{ d.id }}.</span><br><span class='title'>{{ d.title['fr'] }}</span><br><span class='director'>({{ d.director }}, {{ d.year }})</span></div>",
         "<div class='row'>",
         "<div class='details small-12 medium-6 end<% if (i % 2 === 0) { %> right medium-offset-6<% } %>'>",
         "<div class='row small-up-1 large-up-2'>",
         "<% _.forEach(d.media, function (m) { %>",
         "<% if (i % 2 === 1) { %><div class='column spacer'></div><%} %>",
-        "<div class='column'><img class='thumb' src='img/800x600/{{ m.name }}.jpg'><div></div></div>",
+        "<div class='column'><img data-media='{{ JSON.stringify(m) }}' class='thumb' src='img/800x600/{{ m.name }}.jpg'><div></div></div>",
         "<% }); %>",
         "</div>",
-        "<div class='text'>{{ d.text }}</div>",
+        "<div class='text'>{{ _.get(d.text, 'fr') }}</div>",
         "</div>",
         "</div>",
         "</div><% }) %>"
@@ -43,9 +43,10 @@ $(function () {
       viewer.open($el);
     });
 
-    viewer.on("viewer.open", function () {
-      // deepZoom.open($(".viewerContent"), "http://cf.pasoliniroma.com/static/truffaut/dz/1-1/", 2200, 1590);
-      deepZoom.open($(".viewerContent"), "../satyajit-ray_dz/dz/42-1/", 1535, 1148);
+    viewer.on("viewer.open", function (e, f) {
+      var data = f.source.data("media");
+      deepZoom.open($(".viewerContent"), "../satyajit-ray_dz/dz/" + data.name + "/", data.size[0], data.size[1]);
+
       $(".viewerContent").css({ cursor: "move" });
     });
 
