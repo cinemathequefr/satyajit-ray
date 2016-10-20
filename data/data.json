@@ -1,253 +1,379 @@
 [
   {
     "id": 1,
-    "title": "La Ruée vers l'or",
+    "title": {
+      "fr": "La Ruée vers l'or",
+      "en": "The Gold Rush"
+    },
     "director": "Charles Chaplin",
     "year": 19
   },
   {
     "id": 2,
-    "title": "Le Mécano de la General",
+    "title": {
+      "fr": "Le Mécano de la General",
+      "en": "The General"
+    },
     "director": "Buster Keaton",
     "year": 19
   },
   {
     "id": 3,
-    "title": "L'Homme d'Aran",
+    "title": {
+      "fr": "L'Homme d'Aran",
+      "en": "Man of Aran"
+    },
     "director": "Robert Flaherty",
     "year": 19
   },
   {
     "id": 4,
-    "title": "La Passion de Jeanne d'Arc",
+    "title": {
+      "fr": "La Passion de Jeanne d'Arc",
+      "en": "The Passion of Joan of Arc"
+    },
     "director": "Carl Th. Dreyer",
     "year": 19
   },
   {
     "id": 5,
-    "title": "Nosferatu le vampire",
+    "title": {
+      "fr": "Nosferatu le vampire",
+      "en": "Nosferatu"
+    },
     "director": "F. W. Murnau",
     "year": 19
   },
   {
     "id": 6,
-    "title": "Le Chemin de la vie",
+    "title": {
+      "fr": "Le Chemin de la vie",
+      "en": "Road to Life"
+    },
     "director": "Nikolaï Ekk",
     "year": 19
   },
   {
     "id": 7,
-    "title": "La Terre",
+    "title": {
+      "fr": "La Terre",
+      "en": "Earth"
+    },
     "director": "Alexandre Dovjenko",
     "year": 19
   },
   {
     "id": 8,
-    "title": "L'Enfance de Gorki",
+    "title": {
+      "fr": "L'Enfance de Gorki",
+      "en": "The Childhood of Maxim Gorky"
+    },
     "director": "Mark Donskoï",
     "year": 19
   },
   {
     "id": 9,
-    "title": "La Règle du jeu",
+    "title": {
+      "fr": "La Règle du jeu",
+      "en": "The Rules of the Game"
+    },
     "director": "Jean Renoir",
     "year": 19
   },
   {
     "id": 10,
-    "title": "La Poursuite infernale",
+    "title": {
+      "fr": "La Poursuite infernale",
+      "en": "My Darling Clementine"
+    },
     "director": "John Ford",
     "year": 19
   },
   {
     "id": 11,
-    "title": "Haute pègre",
+    "title": {
+      "fr": "Haute pègre",
+      "en": "Trouble in Paradise"
+    },
     "director": "Ernst Lubitsch",
     "year": 19
   },
   {
     "id": 12,
-    "title": "Cris et chuchotements",
+    "title": {
+      "fr": "Cris et chuchotements",
+      "en": "Cries and Whispers"
+    },
     "director": "Ingmar Bergman",
     "year": 19
   },
   {
     "id": 13,
-    "title": "Le Voleur de bicyclette",
+    "title": {
+      "fr": "Le Voleur de bicyclette",
+      "en": "Bicycle Thieves"
+    },
     "director": "Vittorio de Sica",
     "year": 19
   },
   {
     "id": 14,
-    "title": "La Notte",
+    "title": {
+      "fr": "La Notte",
+      "en": "La Notte"
+    },
     "director": "Michelangelo Antonioni",
     "year": 19
   },
   {
     "id": 15,
-    "title": "Huit et demi",
+    "title": {
+      "fr": "8½",
+      "en": "8½"
+    },
     "director": "Federico Fellini",
     "year": 19
   },
   {
     "id": 16,
-    "title": "Lettre d'une inconnue",
+    "title": {
+      "fr": "Lettre d'une inconnue",
+      "en": "Letter from an Unknown Woman"
+    },
     "director": "Max Ophuls",
     "year": 19
   },
   {
     "id": 17,
-    "title": "Mr Smith au Sénat",
+    "title": {
+      "fr": "Mr Smith au Sénat",
+      "en": "Mr Smith Goes to Washington"
+    },
     "director": "Frank Capra",
     "year": 19
   },
   {
     "id": 18,
-    "title": "La Vipère",
+    "title": {
+      "fr": "La Vipère",
+      "en": "The Little Foxes"
+    },
     "director": "William Wyler",
     "year": 19
   },
   {
     "id": 19,
-    "title": "Assurance sur la mort",
+    "title": {
+      "fr": "Assurance sur la mort",
+      "en": "Double Indemnity"
+    },
     "director": "Billy Wilder",
     "year": 19
   },
   {
     "id": 20,
-    "title": "Citizen Kane",
+    "title": {
+      "fr": "Citizen Kane",
+      "en": "Citizen Kane"
+    },
     "director": "Orson Welles",
     "year": 19
   },
   {
     "id": 21,
-    "title": "Le Faucon maltais",
+    "title": {
+      "fr": "Le Faucon maltais",
+      "en": "The Maltese Falcon"
+    },
     "director": "John Huston",
     "year": 19
   },
   {
     "id": 22,
-    "title": "Le Commando de la mort",
+    "title": {
+      "fr": "Le Commando de la mort",
+      "en": "A Walk in the Sun"
+    },
     "director": "Lewis Milestone",
     "year": 19
   },
   {
     "id": 23,
-    "title": "Fenêtre sur cour",
+    "title": {
+      "fr": "Fenêtre sur cour",
+      "en": "Rear Window"
+    },
     "director": "Alfred Hitchcock",
-    "year": 19
+    "year": 1953
   },
   {
     "id": 24,
-    "title": "Douze hommes en colère",
+    "title": {
+      "fr": "Douze hommes en colère",
+      "en": "Twelve Angry Men"
+    },
     "director": "Sidney Lumet",
-    "year": 19
+    "year": 1956
   },
   {
     "id": 25,
-    "title": "Dr Jekyll et Mr Hyde",
+    "title": {
+      "fr": "Dr Jekyll et Mr Hyde",
+      "en": "Dr Jekyll and Mr"
+    },
     "director": "Rouben Mamoulian",
-    "year": 19
+    "year": 1932
   },
   {
     "id": 26,
-    "title": "Taking Off",
+    "title": {
+      "fr": "Taking Off",
+      "en": "Taking Off"
+    },
     "director": "Milos Forman",
-    "year": 19
+    "year": 1970
   },
   {
     "id": 27,
-    "title": "Chinatown",
+    "title": {
+      "fr": "Chinatown",
+      "en": "Chinatown"
+    },
     "director": "Roman Polanski",
-    "year": 19
+    "year": 1973
   },
   {
     "id": 28,
-    "title": "2001 : L'odyssée de l'espace",
+    "title": {
+      "fr": "2001 : L'odyssée de l'espace",
+      "en": "2001: A Space Odyssey"
+    },
     "director": "Stanley Kubrick",
     "year": 19
   },
   {
     "id": 29,
-    "title": "Klute",
+    "title": {
+      "fr": "Klute",
+      "en": "Klute"
+    },
     "director": "Alan J. Pakula",
-    "year": 19
+    "year": 1971
   },
   {
     "id": 30,
-    "title": "Intérieurs",
+    "title": {
+      "fr": "Intérieurs",
+      "en": "Interiors"
+    },
     "director": "Woody Allen",
-    "year": 19
+    "year": 1977
   },
   {
     "id": 31,
-    "title": "Butch Cassidy et le Kid",
+    "title": {
+      "fr": "Butch Cassidy et le Kid",
+      "en": "Butch Cassidy and the Sundance Kid"
+    },
     "director": "George Roy Hill",
-    "year": 19
+    "year": 1968
   },
   {
     "id": 32,
-    "title": "Les Grandes espérances",
+    "title": {
+      "fr": "Les Grandes espérances",
+      "en": "Great Expectations"
+    },
     "director": "David Lean",
-    "year": 19
+    "year": 1946
   },
   {
     "id": 33,
-    "title": "Fallen Idol",
+    "title": {
+      "fr": "Première désillusion",
+      "en": "The Fallen Idol"
+    },
     "director": "Carol Reed",
     "year": 19
   },
   {
     "id": 34,
-    "title": "Noces de sang",
+    "title": {
+      "fr": "Noces de sang",
+      "en": "Blood Wedding"
+    },
     "director": "Carlos Saura",
     "year": 19
   },
   {
     "id": 35,
-    "title": "Le Roi Lear",
+    "title": {
+      "fr": "Le Roi Lear",
+      "en": "King Lear"
+    },
     "director": "Grigori Kozintsev",
     "year": 1970
   },
   {
     "id": 36,
-    "title": "Ivan le terrible",
+    "title": {
+      "fr": "Ivan le terrible",
+      "en": "Ivan the Terrible"
+    },
     "director": "Sergueï M. Eisenstein",
     "year": 1943
   },
   {
     "id": 37,
-    "title": "Farrebique",
+    "title": {
+      "fr": "Farrebique",
+      "en": "Farrebique"
+    },
     "director": "Georges Rouquier",
     "year": 1944
   },
   {
     "id": 38,
-    "title": "Les 400 coups",
+    "title": {
+      "fr": "Les Quatre cents coups",
+      "en": "The 400 Blows"
+    },
     "director": "François Truffaut",
     "year": 1958
   },
   {
     "id": 39,
-    "title": "Les Sept samouraïs",
+    "title": {
+      "fr": "Les Sept samouraïs",
+      "en": "Seven Samourai"
+    },
     "director": "Akira Kurosawa",
     "year": 1954
   },
   {
     "id": 40,
-    "title": "Voyage à Tokyo",
+    "title": {
+      "fr": "Voyage à Tokyo",
+      "en": "Tokyo Story"
+    },
     "director": "Yasujiro Ozu",
     "year": 1953
   },
   {
     "id": 41,
-    "title": "Les Contes de la lune vague après la pluie",
+    "title": {
+      "fr": "Les Contes de la lune vague après la pluie",
+      "en": "Ugetsu"
+    },
     "director": "Kenji Mizoguchi",
     "year": 1953
   },
   {
     "id": 42,
-    "title": "Une nuit à l'opéra",
+    "title": {
+      "fr": "Une nuit à l'opéra",
+      "en": "A Night at the Opera"
+    },
     "director": "Sam Wood",
     "year": 1935,
     "text": "<p>«&nbsp;J'ose espérer que l'on me pardonnera si j'oublie les noms des personnalités assurément très distinguées qui ont mis en scène les films des Marx Brothers. Y en a-t-il vraiment eu d'ailleurs&nbsp;? Si la fonction du réalisateur consiste à coordonner le travail des acteurs et à faire régner l'ordre et le bon sens sur le plateau, alors évidemment le personnage en question aurait mieux fait de rester à des kilomètres des frères Marx. Le rapport entre l'art et une série d'extravagances plus ou moins géniales n'a jamais été clairement défini. En tous cas, il semblerait plutôt déplacé de parler d'art à l'occasion de –&nbsp;disons&nbsp;– <em>Une nuit à l'opéra</em>. Mais je tiens à dire que si l'on me permettait d'emporter un film, et un seul, dans la fameuse île déserte, c'est sans l'ombre même d'un doute un film des frères Marx que je choisirais.&nbsp;» (Satyajit Ray)</p>",
@@ -257,7 +383,10 @@
   },
   {
     "id": 43,
-    "title": "Top Hat",
+    "title": {
+      "fr": "Top Hat",
+      "en": "Top Hat"
+    },
     "director": "Mark Sandrich",
     "year": 1935
   }
