@@ -45,7 +45,8 @@ $(function () {
 
     viewer.on("viewer.open", function (e, f) {
       var data = f.source.data("media");
-      deepZoom.open($(".viewerContent"), "../satyajit-ray_dz/dz/" + data.name + "/", data.size[0], data.size[1]);
+      // deepZoom.open($(".viewerContent"), "../satyajit-ray_dz/dz/" + data.name + "/", data.size[0], data.size[1]);
+      deepZoom.open($(".viewerContent"), "http://cf.pasoliniroma.com/static/satyajit-ray/dz/" + data.name + "/", data.size[0], data.size[1]);
 
       $(".viewerContent").css({ cursor: "move" });
     });

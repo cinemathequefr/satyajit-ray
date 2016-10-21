@@ -6,7 +6,11 @@
       "en": "The Gold Rush"
     },
     "director": "Charles Chaplin",
-    "year": 19
+    "year": 1925,
+    "text": {
+      "fr": "<p>«&nbsp;Ce qui est extraordinaire avec <em>La Ruée vers l'or</em>, c'est que, chaque fois que vous le voyez, et même si vous ne l'avez pas vu depuis très longtemps, le film vous semble à la fois d'une touchante familiarité et d'une nouveauté inépuisable. Vous ne cessez d'avoir envie de le revoir. On dirait un morceau de musique dont on connaîtrait chaque note mais que l'on aimerait entendre encore, plutôt que quelque chose de nouveau. Une partie de l'émerveillement, du miracle, vient naturellement de Chaplin lui-même. Si vous le regardez, vous vous rendez compte qu'il doit être l'un des très rares artistes du XX<sup>e</sup> siècle qui puisse désarmer complètement un critique, et, un instant après, le défier et sortir vainqueur du combat.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    }
   },
   {
     "id": 2,
@@ -15,7 +19,7 @@
       "en": "The General"
     },
     "director": "Buster Keaton",
-    "year": 19
+    "year": 1926
   },
   {
     "id": 3,
@@ -24,7 +28,12 @@
       "en": "Man of Aran"
     },
     "director": "Robert Flaherty",
-    "year": 19
+    "year": 1932,
+    "text": {
+      "fr": "<p>«&nbsp;Comme l'a montré Robert Flaherty, si vous avez une caméra qui fait tourner de la pellicule et une pellicule sur laquelle s'impriment des images, tout ce qu'il vous manque alors pour faire un chef-d'œuvre est l'imagination.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 4,
@@ -33,7 +42,12 @@
       "en": "The Passion of Joan of Arc"
     },
     "director": "Carl Th. Dreyer",
-    "year": 19
+    "year": 1927,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 5,
@@ -42,7 +56,12 @@
       "en": "Nosferatu"
     },
     "director": "F. W. Murnau",
-    "year": 19
+    "year": 1921,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 6,
@@ -51,7 +70,12 @@
       "en": "Road to Life"
     },
     "director": "Nikolaï Ekk",
-    "year": 19
+    "year": 1931,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 7,
@@ -60,7 +84,12 @@
       "en": "Earth"
     },
     "director": "Alexandre Dovjenko",
-    "year": 19
+    "year": 1930,
+    "text": {
+      "fr": "<p>«&nbsp;On peut citer comme une forme extrême de style indigène les premiers films du cinéaste ukrainien Alexandre Dovjenko, comme <em>La Terre</em>, qui étaient largement incompréhensibles – même pour les Russes étrangers à la région qui les a vus naître – non à cause de la langue (c'était des films muets), mais des allusions obscures aux coutumes et légendes locales.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 8,
@@ -69,7 +98,12 @@
       "en": "The Childhood of Maxim Gorky"
     },
     "director": "Mark Donskoï",
-    "year": 19
+    "year": 1938,
+    "text": {
+      "fr": "<p>«&nbsp;Un film comme <em>L'Enfance de Gorki</em> est une évocation de l'âme et de la terre russes aussi poignante que celles de Dostoïevski et Moussorgski.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 9,
@@ -78,7 +112,12 @@
       "en": "The Rules of the Game"
     },
     "director": "Jean Renoir",
-    "year": 19
+    "year": 1939,
+    "text": {
+      "fr": "<p>«&nbsp;Le film qui caractérise le mieux Renoir est <em>La Règle du jeu</em>. Plus que tout autre, il contient en germe tout ce qui, vingt ans plus tard, allait donner naissance au cinéma d'avant-garde. Sous une apparence plaisante et décontractée, ce film est une satire cruelle de l'aristocratie française de l'époque. On y parle beaucoup mais ce n'est et n'aurait jamais pu être du théâtre. C'est une analyse aiguë, mais qui n'aurait jamais pu devenir un roman. À l'écran même, on ne voit pour commencer qu'une partie des trésors qu'il contient. <em>La Règle du jeu</em> est du cinéma pur. Bien que parfaitement compréhensible en apparence, c'est un film difficile et exigeant. À ses différents niveaux de signification, il possède une densité jusqu'alors inconnue au cinéma. Il faut constamment se livrer à un travail d'interprétation et, comme c'est le cas pour toutes les grandes œuvres d'art, il faut y revenir maintes et maintes fois si l'on veut en découvrir les nombreuses facettes. Même s'il n'avait pas comporté d'innovations de syntaxe ou de technique, <em>La Règle du jeu</em> eût été quand même un film en avance&nbsp;: son contenu suffisait à le rendre tel.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 10,
@@ -87,7 +126,12 @@
       "en": "My Darling Clementine"
     },
     "director": "John Ford",
-    "year": 19
+    "year": 1946,
+    "text": {
+      "fr": "<p>«&nbsp;John Ford fut l'un de ceux qui atteignirent le plus souvent les sommets de l'art cinématographique. Il n'est jamais aisé de décrire un style&nbsp;: disons seulement que celui de Ford alliait la force à la simplicité. Ford transcende toujours le cadre littéraire. Ce qui distingue un film comme <em>La Poursuite infernale</em>, comme toujours lorsqu'il s'agit de grands cinéastes, c'est la manière dont l'histoire est présentée, la façon d'utiliser le matériel, de préparer les scènes, de les photographier, de placer sa caméra, de régler ses prises de vue, d'imbriquer les scènes les unes dans les autres, de réussir à ce que le montage détermine le rythme et la pulsation du film.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 11,
@@ -96,7 +140,12 @@
       "en": "Trouble in Paradise"
     },
     "director": "Ernst Lubitsch",
-    "year": 19
+    "year": 1932,
+    "text": {
+      "fr": "<p>«&nbsp;L'un des premiers films sonores qu'il m'ait été donné de voir était de Lubitsch. Il s'appelait <em>Haute pègre</em> et débutait par un clair de lune romantique sur le Grand Canal. L'inévitable gondole apparaissait, glissait sur le miroir des eaux, et, comme elle se rapprochait, on découvrait un monceau d'ordures à l'intérieur. Le gros gondolier amenait son bateau devant un palais, récoltait d'autres déchets et s'en allait en chantant un air de Verdi. Lubitsch était tout esprit, élégance et suggestions. Son influence fut considérable sur tous les réalisateurs de comédies sophistiquées. Il fut également l'un des rares réalisateurs européens non seulement à survivre, mais à réussir à Hollywood.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 12,
@@ -105,7 +154,12 @@
       "en": "Cries and Whispers"
     },
     "director": "Ingmar Bergman",
-    "year": 19
+    "year": 1971,
+    "text": {
+      "fr": "<p>«&nbsp;J'admire vraiment Bergman. C'est un formidable artisan, il a une merveilleuse troupe d'acteurs qui peut faire tout ce qu'il demande, et il a un vrai un sens du drame, qui vient probablement de son travail au théâtre. En tant que réalisateur, je le trouve fascinant, même si je ne suis pas toujours en accord avec ce qu'il dit. Je me sens peu concerné par ses préoccupations, je ne les trouve pas très importantes mais il parvient malgré tout à me captiver.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 13,
@@ -114,7 +168,14 @@
       "en": "Bicycle Thieves"
     },
     "director": "Vittorio de Sica",
-    "year": 19
+    "year": 1947,
+    "text": {
+      "fr": "<p>«&nbsp;À Londres, une semaine après mon arrivée, j'ai vu <em>Le Voleur de bicyclette</em>, en double programme avec <em>Une nuit à l'opéra</em>. Une sacrée séance, vous pouvez me croire&nbsp;! Elle a eu un impact extraordinaire sur moi. Avant d'aller en Grande-Bretagne, j'entendais les cinéastes dire&nbsp;: &quot;On ne peut pas travailler en extérieur, on ne contrôle rien, alors qu'en studio tout est contrôlable. On ne peut pas travailler avec des non-professionnels, des amateurs, ou des gens qui n'ont jamais été en face d'une caméra, on n'a matériellement pas le temps de leur apprendre.&quot; Mais j'ai vu que quelqu'un l'avait fait, et c'était De Sica, c'était exactement ce que je voulais faire. Si lui y était arrivé, pourquoi pas moi&nbsp;? Ce n'était pas plus compliqué que ça.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": [
+      { "type": "img", "name": "13-1", "size": [1825, 2593] }
+    ]
   },
   {
     "id": 14,
@@ -123,7 +184,14 @@
       "en": "La Notte"
     },
     "director": "Michelangelo Antonioni",
-    "year": 19
+    "year": 1960,
+    "text": {
+      "fr": "<p>«&nbsp;Si l'on prend les grands producteurs de films européens, l'un de ceux qui travaillent avec la plus grande économie de moyens est Antonioni. Profondément, c'est un classique. La structure de ses films l'indique. Au premier abord, ils paraissent dépouillés et sans aucun détail inutile. Les sentiments s'expriment en sourdine, et Antonioni fait un authentique effort pour traduire l'état d'esprit de ses personnages par l'action et le comportement. Le succès ou l'échec de ses films dépend du degré de conviction des relations humaines qui y sont exprimées.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": [
+      { "type": "img", "name": "14-1", "size": [1024, 1378] }
+    ]
   },
   {
     "id": 15,
@@ -132,7 +200,12 @@
       "en": "8½"
     },
     "director": "Federico Fellini",
-    "year": 19
+    "year": 1962,
+    "text": {
+      "fr": "<p>«&nbsp;Italien et romantique lui aussi, Fellini se situe absolument aux antipodes d'Antonioni. Je suis assez éclectique pour les admirer tous deux, mais il me semble que ses sympathies plus diversifiées, son esprit et sa plus grand vitalité donneront à Fellini une plus longue période d'activité créatrice qu'à Antonioni.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 16,
@@ -141,7 +214,12 @@
       "en": "Letter from an Unknown Woman"
     },
     "director": "Max Ophuls",
-    "year": 19
+    "year": 1948,
+    "text": {
+      "fr": "<p>«&nbsp;On ne pourrait imaginer un film de Max Ophuls qui ne soit pas parfaitement photographié.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 17,
@@ -150,7 +228,12 @@
       "en": "Mr Smith Goes to Washington"
     },
     "director": "Frank Capra",
-    "year": 19
+    "year": 1939,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 18,
@@ -159,7 +242,12 @@
       "en": "The Little Foxes"
     },
     "director": "William Wyler",
-    "year": 19
+    "year": 1941,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 19,
@@ -168,7 +256,12 @@
       "en": "Double Indemnity"
     },
     "director": "Billy Wilder",
-    "year": 19
+    "year": 1943,
+    "text": {
+      "fr": "<p>«&nbsp;De tous les réalisateurs que j'ai rencontré à Hollywood, Billy Wilder était sans aucun doute le plus fantastique et le plus optimiste.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 20,
@@ -177,7 +270,12 @@
       "en": "Citizen Kane"
     },
     "director": "Orson Welles",
-    "year": 19
+    "year": 1940,
+    "text": {
+      "fr": "<p>«&nbsp;On peut dire que dans un film de Welles, la caméra participe véritablement à l'action et utilise un grand nombre de points de visée différents.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 21,
@@ -186,7 +284,12 @@
       "en": "The Maltese Falcon"
     },
     "director": "John Huston",
-    "year": 19
+    "year": 1941,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 22,
@@ -195,7 +298,12 @@
       "en": "A Walk in the Sun"
     },
     "director": "Lewis Milestone",
-    "year": 19
+    "year": 1945,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 23,
@@ -204,7 +312,12 @@
       "en": "Rear Window"
     },
     "director": "Alfred Hitchcock",
-    "year": 1953
+    "year": 1953,
+    "text": {
+      "fr": "<p>«&nbsp;Dans ses meilleurs ouvrages, comme <em>Fenêtre sur cour</em>, Hitchcock arrive à donner à son film le caractère mystérieux, impossible à analyser, d'une œuvre d'art. Il réalise ici du cinéma pur. L'utilisation rien moins que géniale de toutes les ressources mises à la disposition du cinéaste –&nbsp;caméra, son, montage, mixage, etc.&nbsp;– lui a permis de créer une ambiance unique&nbsp;: le suspense. Il a maîtrisé ce secret comme aucun autre ne le fit avant lui et comme personne ne le fera jamais plus.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 24,
@@ -213,7 +326,12 @@
       "en": "Twelve Angry Men"
     },
     "director": "Sidney Lumet",
-    "year": 1956
+    "year": 1956,
+    "text": {
+      "fr": "<p>«&nbsp;<em>Douze hommes en colère</em> est un huis clos. Mais avec des mots, des personnages, un développement qui passionnent. Qu'est-ce qu'on veut de plus&nbsp;? C'est déjà du cinéma, c'est plastique, le visage humain est plastique, on le photographie pour ça. Il y a un truc dans <em>Douze hommes en colère</em>&nbsp;: tout à coup il pleut, on ferme les fenêtres, et la lumière change, donc il y a bien un changement introduit pour rompre la monotonie.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 25,
@@ -222,7 +340,12 @@
       "en": "Dr Jekyll and Mr"
     },
     "director": "Rouben Mamoulian",
-    "year": 1932
+    "year": 1932,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 26,
@@ -231,7 +354,12 @@
       "en": "Taking Off"
     },
     "director": "Milos Forman",
-    "year": 1970
+    "year": 1970,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 27,
@@ -240,7 +368,12 @@
       "en": "Chinatown"
     },
     "director": "Roman Polanski",
-    "year": 1973
+    "year": 1973,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 28,
@@ -249,7 +382,12 @@
       "en": "2001: A Space Odyssey"
     },
     "director": "Stanley Kubrick",
-    "year": 19
+    "year": 1966,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 29,
@@ -258,7 +396,12 @@
       "en": "Klute"
     },
     "director": "Alan J. Pakula",
-    "year": 1971
+    "year": 1971,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 30,
@@ -267,7 +410,12 @@
       "en": "Interiors"
     },
     "director": "Woody Allen",
-    "year": 1977
+    "year": 1977,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 31,
@@ -276,7 +424,12 @@
       "en": "Butch Cassidy and the Sundance Kid"
     },
     "director": "George Roy Hill",
-    "year": 1968
+    "year": 1968,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 32,
@@ -285,7 +438,12 @@
       "en": "Great Expectations"
     },
     "director": "David Lean",
-    "year": 1946
+    "year": 1946,
+    "text": {
+      "fr": "<p>«&nbsp;<em>Les Grandes espérances</em>, que Lean réalisa en 1949, était, et demeure encore, la meilleure adaptation cinématographique d'un roman de Dickens.&nbsp;» (Satyajit Ray)</p>",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 33,
@@ -307,7 +465,12 @@
       "en": "Blood Wedding"
     },
     "director": "Carlos Saura",
-    "year": 1980
+    "year": 1980,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 35,
@@ -316,7 +479,12 @@
       "en": "King Lear"
     },
     "director": "Grigori Kozintsev",
-    "year": 1970
+    "year": 1970,
+    "text": {
+      "fr": "",
+      "en": ""
+    },
+    "media": []
   },
   {
     "id": 36,
