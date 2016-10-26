@@ -10,7 +10,10 @@
     "text": {
       "fr": "<p>«&nbsp;Ce qui est extraordinaire avec <em>La Ruée vers l'or</em>, c'est que, chaque fois que vous le voyez, et même si vous ne l'avez pas vu depuis très longtemps, le film vous semble à la fois d'une touchante familiarité et d'une nouveauté inépuisable. Vous ne cessez d'avoir envie de le revoir. On dirait un morceau de musique dont on connaîtrait chaque note mais que l'on aimerait entendre encore, plutôt que quelque chose de nouveau. Une partie de l'émerveillement, du miracle, vient naturellement de Chaplin lui-même. Si vous le regardez, vous vous rendez compte qu'il doit être l'un des très rares artistes du XX<sup>e</sup> siècle qui puisse désarmer complètement un critique, et, un instant après, le défier et sortir vainqueur du combat.&nbsp;» (Satyajit Ray)</p>",
       "en": ""
-    }
+    },
+    "media": [
+      { "type": "img", "name": "1-1", "size": [1906, 2634] }
+    ]
   },
   {
     "id": 2,
@@ -19,7 +22,10 @@
       "en": "The General"
     },
     "director": "Buster Keaton",
-    "year": 1926
+    "year": 1926,
+    "media": [
+      { "type": "img", "name": "2-1", "size": [1812, 2478] }
+    ]
   },
   {
     "id": 3,
@@ -75,7 +81,9 @@
       "fr": "",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "img", "name": "6-1", "size": [3234, 2401] }
+    ]
   },
   {
     "id": 7,
@@ -233,7 +241,9 @@
       "fr": "",
       "en": ""
     },
-    "media": []
+    "media": [
+       { "type": "img", "name": "17-1", "size": [3209, 2526] }
+     ]
   },
   {
     "id": 18,
@@ -247,7 +257,9 @@
       "fr": "",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "img", "name": "18-1", "size": [2975, 2401] }
+    ]
   },
   {
     "id": 19,
@@ -286,10 +298,12 @@
     "director": "John Huston",
     "year": 1941,
     "text": {
-      "fr": "",
+      "fr": "<p>Si Satyajit Ray admine John Huston, celui-ci le lui rend bien&nbsp;: «&nbsp;John Huston vint à Calcutta. Il était en Inde pour étudier la possibilité d'y réaliser <em>L'Homme qui voulut être roi</em>. Wheeler (du Museum of Modern Art de New York, chargé d'organiser une exposition sur l'art indien et désireux d'y montrer <em>La Complainte du sentier</em>, alors en tournage), qu'il connaissait bien, lui avait demandé de s'enquérir de l'état d'avancementde mon film et, si possible, d'en visionner quelques rushes. Sans aucun doute était-il impatient de savoir, par le témoignage d'un expert, si son intuition avait été bonne. J'ai montré à Huston un bout-à-bout muet de dix minutes, choisissant la séquence où Apu et Durga voient le train pour la première fois. Le commentaire de Huston&nbsp;: &quot;Un excellent travail de mise en scène, avec de la sincérité.&quot; Mais il me mit en garde contre les longues séquences où le bout-à-bout monrait la déambulation sans but des deux enfants avant qu'ils ne tombent par hasard sur le train. Il ajouta&nbsp;: &quot;Ça rend le public rétif, il n'aime pas qu'on le fasse attendre trop longtemps avant que quelque chose n'arrive.&quot; Mais le rapport qu'il fit à Wheeler était positif.&nbsp;»</p>",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "img", "name": "21-1", "size": [2227, 1649] }
+      ]
   },
   {
     "id": 22,
@@ -303,7 +317,9 @@
       "fr": "",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "img", "name": "22-1", "size": [2959, 2384] }
+    ]
   },
   {
     "id": 23,
@@ -345,7 +361,9 @@
       "fr": "",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "img", "name": "25-1", "size": [2226, 1730] }
+    ]
   },
   {
     "id": 26,
@@ -359,7 +377,9 @@
       "fr": "",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "img", "name": "26-1", "size": [1849, 1000] }
+    ]
   },
   {
     "id": 27,
@@ -401,7 +421,9 @@
       "fr": "",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "img", "name": "29-1", "size": [3000, 2351] }
+    ]
   },
   {
     "id": 30,
