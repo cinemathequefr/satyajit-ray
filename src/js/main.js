@@ -3,14 +3,8 @@ $(function () {
 
   _.templateSettings.interpolate = /{{([\s\S]+?)}}/g;
 
-
-
-
   viewer.init($("#viewer"), "");
   $(".viewerContent").attr("id", "dz-view");
-
-
-
 
   $.getJSON("data/data.json").then(function (data) {
     var template = _.template(
@@ -23,7 +17,13 @@ $(function () {
         "<div class='row small-up-1 large-up-2'>",
         "<% _.forEach(d.media, function (m) { %>",
         "<% if (i % 2 === 1) { %><div class='column spacer'></div><%} %>",
-        "<div class='column'><img data-media='{{ JSON.stringify(m) }}' class='thumb' src='img/800x600/{{ m.name }}.jpg'><div></div></div>",
+        "<div class='column'>",
+        "<% if (m.type === 'img') { %>",
+        "<img data-media='{{ JSON.stringify(m) }}' class='thumb' src='img/800x600/{{ m.name }}.jpg'>",
+        "<% } else { %>",
+        "<div class='videoContainer'><iframe src='//player.vimeo.com/video/{{ m.id }}?color=666666' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>",
+        "<% } %>",
+        "</div>",
         "<% }); %>",
         "</div>",
         "<div class='text'>{{ _.get(d.text, 'fr') }}</div>",
@@ -45,16 +45,12 @@ $(function () {
 
     viewer.on("viewer.open", function (e, f) {
       var data = f.source.data("media");
-      // deepZoom.open($(".viewerContent"), "../satyajit-ray_dz/dz/" + data.name + "/", data.size[0], data.size[1]);
       deepZoom.open($(".viewerContent"), "http://cf.pasoliniroma.com/static/satyajit-ray/dz/" + data.name + "/", data.size[0], data.size[1]);
 
       $(".viewerContent").css({ cursor: "move" });
     });
 
     viewer.on("viewer.close", deepZoom.destroy);
-
-
-
 
   });
 

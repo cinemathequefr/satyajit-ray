@@ -1,6 +1,3 @@
-
-
-
 html {
   overflow: scroll-y; min-height: 101vh;
 }
@@ -26,6 +23,12 @@ h1 {
 a:link, a:hover, a:active, a:visited {
   color: inherit; text-decoration: underline;
 }
+
+
+iframe {
+  border: 0;
+}
+
 
 .splash {
   width: 100%; height: 100vh;
@@ -59,12 +62,10 @@ a:link, a:hover, a:active, a:visited {
   font-size: 1.75rem;
 }
 
-
 .film .details {
-  min-height: 65vh;
+  min-height: 45vh;
   padding: 12px;
 }
-
 
 img.thumb {
   transition: 0.35s;
@@ -74,6 +75,19 @@ img.thumb {
 
 img.thumb:hover {
   opacity: 1;
+}
+
+.videoContainer {
+  position: relative;
+  width: 100%; height: 0;
+  padding-bottom: 75%;
+}
+
+.videoContainer > iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: #111;
 }
 
 div.spacer {
@@ -91,7 +105,6 @@ div.spacer {
   text-align: left;
 }
 
-
 @media screen and (max-width: 39.9375em) {
   body {
     background-image: none;
@@ -104,8 +117,6 @@ div.spacer {
   .film .details {
     min-height: 0;
   }
-
-
 }
 
 
