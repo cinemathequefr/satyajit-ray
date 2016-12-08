@@ -24,9 +24,13 @@ a:link, a:hover, a:active, a:visited {
   color: inherit; text-decoration: underline;
 }
 
-
 iframe {
   border: 0;
+}
+
+hr {
+  width: 160px;
+  margin: 36px 0; border: 0; border-top: solid 1px #999; padding: 0 0;
 }
 
 a#logocf {
