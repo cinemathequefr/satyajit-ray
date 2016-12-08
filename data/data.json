@@ -139,7 +139,9 @@
       "fr": "<p>«&nbsp;John Ford fut l'un de ceux qui atteignirent le plus souvent les sommets de l'art cinématographique. Il n'est jamais aisé de décrire un style&nbsp;: disons seulement que celui de Ford alliait la force à la simplicité. Ford transcende toujours le cadre littéraire. Ce qui distingue un film comme <em>La Poursuite infernale</em>, comme toujours lorsqu'il s'agit de grands cinéastes, c'est la manière dont l'histoire est présentée, la façon d'utiliser le matériel, de préparer les scènes, de les photographier, de placer sa caméra, de régler ses prises de vue, d'imbriquer les scènes les unes dans les autres, de réussir à ce que le montage détermine le rythme et la pulsation du film.&nbsp;» (Satyajit Ray)</p>",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "video", "id": 194793565 }
+    ]
   },
   {
     "id": 11,
@@ -287,7 +289,9 @@
       "fr": "<p>«&nbsp;On peut dire que dans un film de Welles, la caméra participe véritablement à l'action et utilise un grand nombre de points de visée différents.&nbsp;» (Satyajit Ray)</p>",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "video", "id": 194793708 }
+    ]
   },
   {
     "id": 21,
@@ -347,7 +351,9 @@
       "fr": "<p>«&nbsp;<em>Douze hommes en colère</em> est un huis clos. Mais avec des mots, des personnages, un développement qui passionnent. Qu'est-ce qu'on veut de plus&nbsp;? C'est déjà du cinéma, c'est plastique, le visage humain est plastique, on le photographie pour ça. Il y a un truc dans <em>Douze hommes en colère</em>&nbsp;: tout à coup il pleut, on ferme les fenêtres, et la lumière change, donc il y a bien un changement introduit pour rompre la monotonie.&nbsp;» (Satyajit Ray)</p>",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "video", "id": 194793397 }
+    ]
   },
   {
     "id": 25,
@@ -465,7 +471,9 @@
       "fr": "<p>«&nbsp;<em>Les Grandes espérances</em>, que Lean réalisa en 1949, était, et demeure encore, la meilleure adaptation cinématographique d'un roman de Dickens.&nbsp;» (Satyajit Ray)</p>",
       "en": ""
     },
-    "media": []
+    "media": [
+      { "type": "video", "id": 194793627 }
+    ]
   },
   {
     "id": 33,
@@ -575,7 +583,7 @@
       "en": ""
     },
     "media": [
-      { "type": "video", "id": 193044729 }
+      { "type": "video", "id": 194793807 }
     ]
   },
   {
@@ -604,7 +612,7 @@
       "en": ""
     },
     "media": [
-      { "type": "img", "name": "42-1", "size": [1535, 1148] }
+      { "type": "video", "id": 194793771 }
     ]
   },
   {
